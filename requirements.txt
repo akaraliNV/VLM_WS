@@ -1,0 +1,6 @@
+notebook 
+python-dotenv 
+opencv-python 
+requests 
+pillow 
+flask 
