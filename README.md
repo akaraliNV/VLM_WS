@@ -2,7 +2,7 @@
 
 Clone repo 
 ```
-git clone https://gitlab-master.nvidia.com/sochoa/vlm_nim_workshop
+git clone [https://gitlab-master.nvidia.com/sochoa/vlm_nim_workshop](https://github.com/akaraliNV/VLM_WS)
 cd vlm_nim_workshop 
 ```
 
